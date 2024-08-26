@@ -1,0 +1,21 @@
+/* CSS classes and ID's moment */
+
+.odd-element  {
+    background-color: rgb(247, 144, 187);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.odd-element.third-element  {
+    font-size: 24px;
+}
+
+#second-element {
+    color: rgb(27, 55, 211);
+    font-size: 36px;
+}
+
+#fourth-element {
+    background-color: rgb(124, 245, 150);
+    font-size: 24px;
+    font-weight: bold;
+}
