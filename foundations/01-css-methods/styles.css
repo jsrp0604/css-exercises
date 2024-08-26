@@ -1,0 +1,10 @@
+/* Only for div */
+
+div {
+    color: white;
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
