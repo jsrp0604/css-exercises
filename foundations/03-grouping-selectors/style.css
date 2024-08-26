@@ -1,0 +1,17 @@
+/* Class selectors and its combinations */
+
+.click-me,
+.notclick-me   {
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.click-me   {
+    color: rgb(252, 248, 248);
+    background-color: #0a0a0a;
+    
+}
+
+.notclick-me    {
+    background-color: rgb(248, 245, 48);
+}
